@@ -70,3 +70,5 @@ setB = {3, 4, 5, 6}
 
 result = intersection_set(setA, setB)
 print("Intersection:", result)
+
+# TEST
