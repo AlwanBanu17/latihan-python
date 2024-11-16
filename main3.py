@@ -33,3 +33,5 @@ angka3 = 20
 print(angka2 == angka3)
 print(angka1 >= angka3)
 print(angka1 < angka3)
+
+
